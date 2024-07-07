@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TheMaximusReport/static/css/main.73889e6e.css",
+    "main.js": "/TheMaximusReport/static/js/main.12d372d1.js",
+    "static/js/787.29ff3a83.chunk.js": "/TheMaximusReport/static/js/787.29ff3a83.chunk.js",
+    "index.html": "/TheMaximusReport/index.html",
+    "static/media/instagram.svg": "/TheMaximusReport/static/media/instagram.a5dfc24c8028d97b0400c5e97a5f1bf3.svg",
+    "static/media/linkedin.svg": "/TheMaximusReport/static/media/linkedin.3acc04feb700f6fcc64280275b195747.svg",
+    "static/media/search.svg": "/TheMaximusReport/static/media/search.0e5957a588fbd225b22d604fe07209ab.svg",
+    "static/media/twitter.svg": "/TheMaximusReport/static/media/twitter.69e4ca96a2b2b7195087d8d3e56f8dd6.svg",
+    "static/media/facebook.svg": "/TheMaximusReport/static/media/facebook.c6497cfad44bf6d8daaf64b0948540de.svg",
+    "main.73889e6e.css.map": "/TheMaximusReport/static/css/main.73889e6e.css.map",
+    "main.12d372d1.js.map": "/TheMaximusReport/static/js/main.12d372d1.js.map",
+    "787.29ff3a83.chunk.js.map": "/TheMaximusReport/static/js/787.29ff3a83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73889e6e.css",
+    "static/js/main.12d372d1.js"
+  ]
+}
